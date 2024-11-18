@@ -1,1 +1,1 @@
-https://NoahVirnocheMeisel.github.io/react-gh-pages
+https://NoahVirnocheMeisel.github.io
